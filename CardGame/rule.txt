@@ -1,0 +1,11 @@
+                                      Rules of the game
+
+In this game you should obey the following rules:
+
+1. It's a 2-player game. At the start of each round, each play will get a card.
+2. When it is your turn, you can choose to Hit, Fold, or quit the game at any time.
+    Hit: Fetch a card from the card set. If this card has the same value with one of the cards in your hand, then drop this pair card and you score points equal to the value of the paired card.
+    Fold: When you fold, you must take the lowest card in play and keep it for points. You may choose this card from any player's stack, including your own.
+3. If a player gets a pair or fold, then the round is over.
+4. The target score is (60/number of players)+1. The first to reach this score is the loser.
+5. If a player reaches the target score, the game will be over.
